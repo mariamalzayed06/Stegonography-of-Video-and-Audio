@@ -1,0 +1,6 @@
+flask>=3.0
+numpy>=1.26
+scipy>=1.11
+cryptography>=42
+matplotlib>=3.8
+pillow>=10
